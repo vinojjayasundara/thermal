@@ -24,10 +24,15 @@ To set up the environement for the code, follow the following instructions.
     ```
     
 ## Train models
+
+- To train the AutoEncoder model, please run the following.
     ```
-    python simple_cnn.py
     python autoencoder.py
     ```
+- To train the CNN model, please run the following.
+    ```
+    python simple_cnn.py
+    ```    
 
 ## Inference
 
