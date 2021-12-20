@@ -1,0 +1,8 @@
+progressbar2
+argparse
+scikit-learn
+torchvision
+torchsummary
+matplotlib
+scipy
+av
