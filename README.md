@@ -8,6 +8,19 @@ To set up the environement for the code, follow the following instructions.
     ```
     pip install -r requirements.txt
     ```
+## Data Generation
+
+- Start the video recording
+
+- Running the sequences on the board
+    ```
+    python tests.py
+    ```
+
+- After each run, update the `tests.py` to call the next sequence.
+
+- Stop the video recording
+
     
 ## Data Pre-process
 
